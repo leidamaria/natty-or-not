@@ -3,7 +3,7 @@
 ##  Introdução
 
 Olá pessoal, me chamo Leida Maria!
-Este projeto implementa um video de uma reporter noticiando que todo o mundo gostaria de ouvir. A notícia é falsa é claro; mas mostra o que pode ser feito com as tecnoligas da IA Generativa.
+Este projeto implementa um video de uma reporter noticiando que todo o mundo gostaria de ouvir: uma notícia acerca do fim da Guerra da Rússia e Ucrânia. A notícia é falsa é claro; mas mostra o que pode ser feito com as tecnoligas da IA Generativa.
 
 ## Tecnologias utilizadas 
 
