@@ -17,5 +17,5 @@ Primeiro foi criado o conteúdo da fala da repórter nobChatGPT; em seguida, foi
 
 ## 🚀 Resultados
 
-<a href=""> Clique para ver o vídeo </a>
+<a href="https://github.com/leidamaria/natty-or-not/blob/main/Video_noticia.mp4"> Clique para ver o vídeo </a>
 
