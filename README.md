@@ -1,24 +1,21 @@
-# Real ou Virtual? Navegando pelo Mundo das IAs Gerativas
+# Natural ou Fake Natty? Como criar um video atribuindo uma fala falsa a um personagem
 
 ##  Introdução
 
+Olá pessoal, me chamo Leida Maria!
+Este projeto implementa um video de uma reporter dando uma notícia que todo o mundo gostaria de ouvir.A notícia é falsa é claro; mas mostra o que pode ser feito com as tecnoligas da IA Generativa.
 
-Olá pessoal, me chamo Fabiana! Inspirado na hype do fisiculturismo "Natty or Not", este projeto explora as fronteiras entre a criação humana e a produção artificial. Em um mundo onde as inteligências artificiais gerativas estão revolucionando a forma como criamos conteúdo, mergulharemos nesse mundo das ias generativas e te convido a explorar o potencial dessas tendências tecnológicas incríveis!
+## Tecnologias utilizadas 
 
-
-## Tecnólogias utilizadas 💪
-
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
-- IA Generativa **[D-ID](https://www.d-id.com)** para sintetização de voz e geração de avatar virtual;
-- Software **[CapCut](https://www.capcut.com/my-edit?from_page=landing_page&enter_from=login&start_tab=video)** para edição de vídeo.
+- IA Generativa **[ChatGPT](https://chat.openai.com)** - elabração do conteúdo da notícia
+- IA Generativa **[D-ID](https://www.d-id.com)** - geração de avatar virtual;
+- Software **[CapCut](https://www.capcut.com/my-edit?from_page=landing_page&enter_from=login&start_tab=video)** - edição do vídeo.
 
 ### Processo de Criação
-Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" foi essencial para criar um avatar virtual e voz sintetizada. A montagem e edição foram realizadas no CapCut.
+Primeiro foi criado o conteúdo da fala da repórter nobChatGPT; em seguida, foi criado um avatar avatar virtual com voz sintetizada. Por último foi feita a edição do video no CapCut.
 
 
 ## 🚀 Resultados
-
-O resultado do trabalho é uma análise abrangente e envolvente das maneiras como as inteligências artificiais gerativas estão moldando o futuro da criação de conteúdo. 
 
 <a href=""> Clique para ver o vídeo </a>
 
